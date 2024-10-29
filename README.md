@@ -1,1 +1,3 @@
-# snap
+# Snap-пакеты в Linux
+
+https://pingvinus.ru/note/snap
